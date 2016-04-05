@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia04tacigoog_0012.png"; bbox 0 0 3200 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1743 2 2832">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1743 2 2832">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1743 2 2832; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1743 2 2832; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 478 518 974 854">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 478 518 974 854">
+     <span class='ocr_line' id='line_1_2' title="bbox 478 518 974 597; baseline 0.026 -23"><span class='ocrx_word' id='word_1_2' title='bbox 478 518 646 575; x_wconf 71' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_3' title='bbox 663 523 791 588; x_wconf 69' lang='lat' dir='ltr'><strong>collen-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 823 532 974 597; x_wconf 47' lang='lat' dir='ltr'><strong>Libras)y</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 579 610 870 691; baseline 0.007 -22"><span class='ocrx_word' id='word_1_5' title='bbox 579 610 673 671; x_wconf 76' lang='lat' dir='ltr'><strong>June</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 695 612 870 691; x_wconf 36' lang='lat' dir='ltr'><strong>15‚„19⁴z.,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 495 696 935 767; baseline 0.032 -18"><span class='ocrx_word' id='word_1_7' title='bbox 495 696 603 757; x_wconf 78' lang='lat' dir='ltr'><strong>From</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 631 712 687 753; x_wconf 58' lang='lat' dir='ltr'><strong>uu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 717 701 873 767; x_wconf 72' lang='lat' dir='ltr'><strong>Liorary</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 899 708 935 762; x_wconf 58' lang='lat' dir='ltr'><strong>:vs</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 512 784 913 854; baseline 0.022 -15"><span class='ocrx_word' id='word_1_11' title='bbox 512 784 637 841; x_wconf 78' lang='lat' dir='ltr'><strong>James</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 656 789 688 843; x_wconf 79' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 713 790 913 854; x_wconf 57' lang='lat' dir='ltr'><strong>mmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 558 876 845 985">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 558 876 845 985">
+     <span class='ocr_line' id='line_1_6' title="bbox 558 876 845 985; baseline 0.014 -51"><span class='ocrx_word' id='word_1_14' title='bbox 558 932 563 954; x_wconf 73' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 625 876 714 939; x_wconf 72' lang='lat' dir='ltr'><strong>Now</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 733 876 845 985; x_wconf 36' lang='lat' dir='ltr'>York·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1604 4917">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1604 4917">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1604 4917; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1604 4917; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
